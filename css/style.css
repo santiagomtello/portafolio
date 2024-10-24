@@ -45,6 +45,12 @@ a:hover, a:active{
     background-color: red;
 }
 
-.subtitulo{
-    text-align: 50px;
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
 }
